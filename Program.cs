@@ -14,6 +14,18 @@ namespace Employee
         public int experience;
         public string position; 
         public double salary;
+        public double Nalog()
+        {
+            return salary*13/100;
+        }
+        public double Pens()
+        {
+            return salary/100;
+        }
+        public double Zarp()
+        {
+            return salary - Nalog() - Pens();
+        }
     }
     class Program
     {
