@@ -90,7 +90,16 @@ namespace Employee
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] names = {"Джордж", "Эрик", "Элианора", "Мэри", "Тайлер", "Шон", "Брендон",};
+            string[] surnames = {"Робинсон", "Виллиамс", "Смит", "Гриффен", "Джонсон", "Джеймс","Ландграаб"};
+            string[] positions = {"директор", "начальник отдела", "бухгалтер", "программист","эксперт", "охранник", "инкасатор"};
+            for ( int i = 0; i<7; i++ )
+            {
+                Employee rabotnik = new Employee(surnames[i], names[i]);
+                rabotnik.experience = new Random().Next(0,20);
+                rabotnik.position = positions[i];
+                rabotnik.GetInfo();
+            }
         }
     }
 }
