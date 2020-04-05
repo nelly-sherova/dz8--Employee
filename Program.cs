@@ -16,15 +16,15 @@ namespace Employee
         public double salary;
         public double Nalog()
         {
-            return salary*13/100;
+            return Math.Round(salary*13/100,2);
         }
         public double Pens()
         {
-            return salary/100;
+            return Math.Round(salary/100,2);
         }
         public double Zarp()
         {
-            return salary - Nalog() - Pens();
+            return Math.Round((salary - Nalog() - Pens()),2);
         }
         public void GetInfo()
         {

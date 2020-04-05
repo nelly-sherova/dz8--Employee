@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+C:\Users\ASUS\Desktop\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+C:\Users\ASUS\Desktop\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+C:\Users\ASUS\Desktop\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+C:\Users\ASUS\Desktop\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\ASUS\Desktop\Employee\obj\Debug\netcoreapp3.1\Employee.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+C:\Users\ASUS\Desktop\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\ASUS\Desktop\Employee\obj\Debug\netcoreapp3.1\Employee.genruntimeconfig.cache
